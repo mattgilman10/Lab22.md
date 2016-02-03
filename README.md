@@ -13,7 +13,9 @@ If there is no explicit License, than by definition "All rights resevered", whic
 
 ##### why Gopher failed and HTTP survived - Do you agree with this claim?
 
+It is interesting, since at the time HTTP was picked, but now we are turning more towards the Gopher system. I agree with this claim, since a lot of things have changed since those were created. At the time it was probably more convenient and easier to do things through HTTP, since a there was not as many programmers back than and they probably wouldn't know what to do. Now with so many more programmers the authors of the sites can post files and create new menu files and fixing outdated links. I agree with the claim. 
 
 
+##### Look at Software project and Justify why they used a certain license. 
 
-#####
+
