@@ -1,6 +1,6 @@
 # Lab2.md
 
-#### Why it is important to choose a LICENSE?
+##### Why it is important to choose a LICENSE?
 
 Something that does not have a license is not really an open source project. A lot of programmers will not help unless there is a license along with the open source project. Than you are sharing your work with everyone else and helping benefit not just yourself, but the entire community. The reason you choose a license is it complies with the OSI so that the software can be freely used, changed, and shared by anyone. The licenses protect those individuals from working on a project that they won't ever be able to use. 
 
@@ -21,6 +21,6 @@ It is interesting, since at the time HTTP was picked, but now we are turning mor
 This is the project I looked at, Canadaduane/house. They have a MIT License. This license is used, since it is extremely open and has little to no restrictions. Gives the coders helping with the project more access and reason to assist in this project. Only requirement an MIT license places on its recipients is that they keep original coders copyright notice intact when they repurpose, redistribute, or otherwise reuse original persons code. You can build a business that sells larger, proprietary applications built out of smaller, open source components without the fear of imitators purchasing and re-selling your product. 
 
 
-#### Think of an example project. Pick a license 
+##### Think of an example project. Pick a license 
 
 
