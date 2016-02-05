@@ -30,6 +30,10 @@ Done
 
 The GNU General Public License (GNU GPL or GPL) is a widely used free software license, which guarantees end users (individuals, organizations, companies) the freedoms to run, study, share (copy), and modify the software.
 
-###### LGPL
+##### LGPL
+
+The LGPL is similar to the GPL, but is more designed for software libraries where you want to allow non-GPL applications to link to your library and utilise it. If you modify the software, you still have to give back the source code, but you are allowed to link it with proprietary stuff without giving the source code to all of that back.
+
+##### BSR
 
 
