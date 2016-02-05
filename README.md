@@ -53,4 +53,4 @@ I would choose a BSD license if I was a company, since you do not have to share 
 Common good I believe the best license would be GPL, since you share, change and redistribute everything. Less restrictions on this license, and you must give back all of the code you used or changed. 
 
 
-#####
+##### 
