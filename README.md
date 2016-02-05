@@ -34,6 +34,23 @@ The GNU General Public License (GNU GPL or GPL) is a widely used free software l
 
 The LGPL is similar to the GPL, but is more designed for software libraries where you want to allow non-GPL applications to link to your library and utilise it. If you modify the software, you still have to give back the source code, but you are allowed to link it with proprietary stuff without giving the source code to all of that back.
 
-##### BSR
+##### BSD
+
+Very Permissive. 
+The BSD basically says "here's the source code, do whatever you want with it, but if you have problems, it's your problem". That means you can take BSD'ed code and turn it into a proprietary application if you so wish - there's nothing saying you have to give the code back (although it is nice to do so).
 
 
+###### Developers
+
+Depending on if the developers are trying to make a profit or just help out will make a difference when choosing the best license. I believe a developer looking for a profit would choose a BSD license. If the developer was doing it for fun or to help out, I believe he would use a LGPL license. This would enable the developer to use his own libraries and utilities which would be a huge bonus for them.  
+
+###### Companies
+
+I would choose a BSD license if I was a company, since you do not have to share the changes you make and you can redistribute as you wish. Very good for proprietary applications, which allows the company to be able to sell and redistribute this as they wish. They don't have to share their secrets with anyone else. 
+
+###### Common Good
+
+Common good I believe the best license would be GPL, since you share, change and redistribute everything. Less restrictions on this license, and you must give back all of the code you used or changed. 
+
+
+#####
